@@ -1,1 +1,3 @@
-config-dev.yml版本1.0
+config:
+  info:"springcloud-config config-dev version=1"
+     
